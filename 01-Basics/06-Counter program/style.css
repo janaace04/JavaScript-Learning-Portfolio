@@ -1,0 +1,37 @@
+#headL{
+    display: block;
+    text-align: center;
+    font-size:large;
+    font-family: fantasy;
+}
+
+#countL{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: fantasy;
+}
+
+#btncontainer{
+    text-align: center;
+    /* border: 1px solid; */
+    display: block;
+    /* flex-direction: column;
+    width: 100%;
+    background-color: aqua; */
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: rgb(233, 34, 43);
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 0%;
+    transition: background-color 0.5s;
+
+}
+
+.buttons:hover{
+    background-color: rgb(6, 71, 71);
+}

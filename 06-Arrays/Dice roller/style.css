@@ -1,0 +1,28 @@
+#Dice{
+    text-align: center;
+    font-family: fantasy;
+    font-size: large;
+    font-weight: bold;
+}
+
+#RollDice{
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+#RollDice:hover{
+    background-color: rgba(59, 185, 91, 0.685);
+}
+
+#RollDice:active{
+    background-color: aquamarine;
+}
+
+#ResultImages{
+    margin-right: auto;
+}
